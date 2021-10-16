@@ -1,2 +1,2 @@
 # recipes
-A responsive recipe cards site created with HTML and CSS.
+A recipe cards site template created with HTML and CSS.
